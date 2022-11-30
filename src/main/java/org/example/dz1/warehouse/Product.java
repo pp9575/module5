@@ -1,4 +1,4 @@
-package org.example.warehouse;
+package org.example.dz1.warehouse;
 
 import lombok.Data;
 

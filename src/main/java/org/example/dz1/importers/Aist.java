@@ -1,6 +1,6 @@
-package org.example.importers;
-import org.example.warehouse.Bike;
-import org.example.warehouse.Warehouse;
+package org.example.dz1.importers;
+import org.example.dz1.warehouse.Bike;
+import org.example.dz1.warehouse.Warehouse;
 
 public class Aist implements Importer {
     @Override

@@ -1,7 +1,7 @@
-package org.example.customers;
+package org.example.dz1.customers;
 
-import org.example.warehouse.Product;
-import org.example.warehouse.Warehouse;
+import org.example.dz1.warehouse.Product;
+import org.example.dz1.warehouse.Warehouse;
 
 import java.util.ArrayList;
 import java.util.List;
